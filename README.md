@@ -1,0 +1,1 @@
+# rankmath-headless-root-domain
