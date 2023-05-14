@@ -8,3 +8,5 @@ A little code snippet to replace the domain of a headless-wordpress-backend (sub
 2. Replace the String inside of the variable $frontend_domain in rank-math.php to the root domain of your frontend. 
 3. Check the head of your website. All Canonicals (including on subpages) should now point to the frontend of your headless-website.
 
+
+
